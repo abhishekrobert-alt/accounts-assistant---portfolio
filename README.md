@@ -1,7 +1,5 @@
 # Abhishek Robert's Portfolio
 # Accounts Assistant
-
-**Contact Info**  
 - Address: 59, Dobhal Wala, Dehradun, Uttarakhand, 248001, INDIA
 - Email: abhishek_robert@outlook.com
 - Mobile No: +91 8279 767 273
